@@ -7,6 +7,7 @@ This project focuses on the classification of insincere questions on Quora using
 - Data Preprocessing: Techniques to clean and prepare text data.
 - NLP Techniques: Utilizing various NLP methods for text analysis.
 - Deep Learning Models: Implementation of deep learning algorithms for classification.
+- 
 ## Detailed Report : 
  https://github.com/Bsarma25/NLP-Quora-Insincere-Question-Classification/blob/main/Report.pdf
 
